@@ -59,9 +59,16 @@ I mostly work with Python, MVC Frameworks, Machine learning and Cloud based tech
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   </a>
+    <a href="https://grpc.io/" target="_blank" >
+    <img src=" https://lottie.host/90172890-9beb-4337-9945-b349501104ac/x00ufIGAlv.json"  height="75" />
+  </a>
+      <a href="https://grpc.io/" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KN7zbaWkbm5E71zZWfTf7A.gif"  height="75" />
+  </a>
 
  </p>
-  
+
+ 
 ### DevOps
   
  <p float="left">
