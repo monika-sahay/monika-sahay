@@ -14,7 +14,7 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> -->
 <a href="https://pypi.org/user/monika_sahay/">
-    <img src="https://img.shields.io/badge/monika-100000?style=for-the-badge&logo=Monika&logoColor=white&labelColor=2863CA&color=11449D", height=20>
+    <img src="https://img.shields.io/badge/monika-100000?style=for-the-badge&logo=PyPi&logoColor=white&labelColor=2863CA&color=11449D", height=20>
 </a>
 <br/>
 
