@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23799F&multiline=true&random=false&width=478&height=120&lines=Monika+Monika+;MSc+student;Python+Developer%7C+AI+%7C+machine+learning;Cryptography+%7C+Quantum+computing" alt="Typing SVG" /></a>
 </a>
 <br/>
@@ -14,7 +14,7 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> -->
 <a href="https://pypi.org/user/monika_sahay/">
-    <img src="https://img.shields.io/badge/monika-100000?style=for-the-badge&logo=PyPi&logoColor=white&labelColor=2863CA&color=11449D", height=20>
+    <img src="https://img.shields.io/badge/PyPi-monika_sahay-blue?style=for-the-badge&logo=PyPi&logoColor=white&labelColor=2863CA&color=11449D", height=20>
 </a>
 <br/>
 
