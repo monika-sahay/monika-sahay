@@ -32,16 +32,16 @@
 I mostly work with Python, MVC Frameworks, Machine learning and Cloud based technologies. 🚀
 
 ### Programing language
-
-<p float="left">
+<p align="center">
+<!-- <p float="left"> -->
   <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="70" />
   </a>
     <a href="https://www.rust-lang.org/" target="_blank" >
-    <img src="https://preview.redd.it/h54z9y3x9n091.gif?width=600&auto=webp&s=e867f62eb259edc3dad4e7b1ab4b0d1c05634711"  height="80" /> 
+    <img src="https://cdnb.artstation.com/p/assets/images/images/042/806/685/original/terrified-of-ice-cream-ferrisrust-frame.gif?1635480129"  height="70" /> 
   </a>
     <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="70" />
 
   </a>
     <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
