@@ -4,7 +4,7 @@
 </a>
 <br/>
   
-<a href="https://www.linkedin.com/in/monika-monika-92197227/">
+<a href="https://www.linkedin.com/in/mmonikx/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="monika_sahay@yahoo.com">
